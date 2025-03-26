@@ -1,0 +1,25 @@
+body {
+    text-align: justify;
+}
+
+h1 {
+    background-image: url('gallyery/Mangal_Shobhajatra_in_Dhaka.jpg');
+
+    color: black;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 50px;
+    text-align: center;
+}
+div>img {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+a:hover{
+color:blue ;
+}
